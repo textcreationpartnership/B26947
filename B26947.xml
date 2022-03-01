@@ -1,0 +1,149 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The monsieur: or, A letter from a French Catholick at London to his friend at Paris, concerning the present state of the English nation.</title>
+            <author>French Catholick.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1681</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 12 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B26947</idno>
+            <idno type="OCLC"> 13659681</idno>
+            <idno type="STC">Wing M2460</idno>
+            <idno type="STC">Interim Tract Supplement Guide T.100*[149]</idno>
+            <idno type="STC">ESTC R1242</idno>
+            <idno type="EEBO-CITATION">99882710</idno>
+            <idno type="PROQUEST">ocm99882710</idno>
+            <idno type="VID">186115</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B26947)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 186115)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; C3:2[147])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The monsieur: or, A letter from a French Catholick at London to his friend at Paris, concerning the present state of the English nation.</title>
+                  <author>French Catholick.</author>
+               </titleStmt>
+               <extent>1 sheet ([2] p.).   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Rich. Janeway in Queens-Head-Alley in Pater-Noster-Row,</publisher>
+                  <pubPlace>London; :</pubPlace>
+                  <date>1681.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Catholic Church --  Great Britain --  History --  17th century --  Early works to 1800.</term>
+               <term>Popish Plot, 1678 --  Early works to 1800.</term>
+               <term>Catholics --  Legal status, laws, etc. --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-12</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2014-02</date>
+            <label>Anne Simpson</label>Sampled and proofread</change>
+         <change>
+            <date>2014-02</date>
+            <label>Anne Simpson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="letter">
+            <pb facs="tcp:186115:1" rendition="simple:additions"/>
+            <head>The Monſieur: OR, A LETTER from a <hi>French</hi> Catholick at <hi>London</hi> to his Friend at <hi>Paris,</hi> concerning the preſent State of the <hi>Engliſh</hi> Nation.</head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>I Know you expect to hear how I find the State of Affairs in this Country, which I will aſſure you are in no point ſo benign and promiſing as we were made to be<g ref="char:EOLhyphen"/>lieve, and as I hoped to find them before I came over, by which I ſee that flatter<g ref="char:EOLhyphen"/>ing our condition, and rendring things better than they are, is the common-diſeaſe of all Nations, and that therefore there is no ſuch effectual cure of falſe reports as being on the ſpot.</p>
+            <p>You know, <hi>Sir,</hi> we were both told of three Parties in this Kingdom, but I can find but two, the Proteſtants and the Catholicks, the latter hath many of the Gentry for its favou<g ref="char:EOLhyphen"/>rers, but the greateſt part of the Nobility, the body of the Gentry, and the generality of the people are all on the other ſide. Which had we known in time, I ſhould never have adviſed the <hi>Engliſh</hi> Catholicks to this Attack, which whatever may be told you, if it be not very tenderly and dexterouſly managed to bring them off, I doubt it will prove their utter ruin; for to attempt the reſtoring a Religion againſt the univerſal temper of a Nation, where Principle in many, and Intereſt in (almoſt) all have poſſeſſed the people with an inveterate and invincible prejudice againſt it, though it may well enough become the fooliſh zeal of a few devout Prieſts and Bigots, yet that other perſons of wiſdom and fortune ſhould be drawn in to engage themſelves in ſuch an unaccountable piece of indiſcretion, is to me one of the greateſt wonders in nature. For if I am not abuſed in my information, I do believe, to make <hi>Spain</hi> Proteſtant is as eaſie an undertaking as to make <hi>England</hi> Catholick; and then how near this attempt is to an impoſſibility, I leave you and all men to judg.</p>
+            <p>And now to think of engaging Authority on our ſide, is I doubt a notion as wild and idle as the undertaking it ſelf; for it is but to requeſt Authority that it would pleaſe to play the fool for our ſakes; and how we have deſerved ſuch a kindneſs from it, I fear will be too hard a difficulty to demonſtrate.</p>
+            <p>Beſides, natural defects that carry an impoſſibility in them, cannot be cured by Authority it ſelf, no more than Authority can cure a man that is born blind or lame, and make him to ſee or go; ſo that if we could bubble Authority to our ſide (which I totally deſpair of ever doing) yet would not that effect our buſineſs; it is true it might hurt it ſelf, but cannot at all help us, becauſe there is ſuch a natural defect in our preſent undertaking that no cure can reach or help it. For the <hi>Engliſh</hi> compute their men at Twelve hundred thouſand at the leaſt, and of theſe the <hi>Catholicks</hi> and their Intereſt make ſcarce Fifty thouſand; now what a brow muſt that man have that would go about to perſwade Authority that it is its true in<g ref="char:EOLhyphen"/>tereſt to ſtick by the four and twentieth part of its people againſt no leſs than the whole three and twenty parts thereof? would not Authority think you judg ſuch a man fitter for <hi>Bedlam</hi> than to be converſed with? eſpecially an Authority that hath ſo oft and publickly profeſſed it ſelf Proteſtant, as the Authority of <hi>England</hi> hath done.</p>
+            <p>Again, what arguments can we lay before Authority (admit it would hear us) to attain our end? For there are but two ways to effect it, either legally or forcibly; if by Law, then it muſt be done by Parliament, (which is the greateſt thing we dread) for there can be no Laws made but by Parliament, nor no Parliaments but by the Peoples choice, and the Votes of the <hi>Proteſtants</hi> being above twenty to one to ours, there is an utter impoſſibility that ever we can have a Parliament for our turn, and ſo cannot bring about our point by Law; and if by force we ſhould attempt it, the impoſſibility is as great every way, becauſe the odds ſtill bears the ſame proportion, and we may as rationally hope that one man can beat three and twenty, as that the <hi>Engliſh</hi> Catholicks can ſubdue the Proteſtants by force.</p>
+            <p>Now if you pleaſe to add to all this, that the Authority of the Nation is already engaged, and by their many publick Manifeſto's have declared, <hi>That there hath been, and ſtill is, a hor<g ref="char:EOLhyphen"/>rid Helliſh Popiſh Plot carrying on, againſt the Life of the King, and the Proteſtant Religion;</hi> and can we ever think that the Government will caſt that reflection on their own reputation as to ſuffer themſelves to be wheedled to unſay this, and ſay the contrary, and all this for ſo inconſiderable a minor part of the Nation, againſt ſo vaſt a majority thereof? I confeſs for one, I muſt totally lay aſide the underſtanding of a man before I can ever incline to this opinion.
+<pb facs="tcp:186115:2"/>I know, <hi>Sir,</hi> you expected a fairer face of things from hence than I have ſent you; but if I am valuable for any thing in the world, it is for fidelity, and the faithful diſcharge of what I am intruſted with. I believe you have more pleaſing accounts given you by ſome, that ou<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Intereſt here is on the increaſing hand, and that both the Gentry and Clergy of the Church of <hi>England</hi> in Court and Country do come off apace to us, with a many grateful things of that nature; but if you will pleaſe to credit me, ſomewhat nigh this account I have ſent you, is the very truth. I do not deny but that ſome of the Clergy and Gentry may have come over to us, but muſt alſo tell you, that they are ſuch a ſome as are none but ſuch as meer Indi<g ref="char:EOLhyphen"/>gents, or ſo debaucht that they are a very ſcandal to any profeſſion they are of; and that Churches reputation muſt needs run exceeding low that glories in ſuch Converts; and to compenſate this acceſſion too, I do aſſure you that the Diſſenters and ſober Church of <hi>Eng<g ref="char:EOLhyphen"/>land</hi> men have a far greater kindneſs for each other than formerly, and for ought I can learn, are very hearty in their union againſt us, as the common enemy to both; and to tell you one ſad truth for all, both the riches and induſtry, the landed-men, and the trading part of the Nation are againſt us as one man; and conſider, if the number, riches and trade of the Kingdom are againſt us, what ſmall Cards muſt be left for us to ſhew for our game?</p>
+            <p>'Tis true for ſometime we did make good earnings in perſwading the Church of <hi>England</hi> men that the Diſſenters would pull them down again, and at the ſame time perſwading the Fanaticks that the Church of <hi>England</hi> would extirpate them. But that day is done; for now both the one and the other ſee that all thoſe ſentiments were nothing elſe but our arts and ſhams upon them; and therefore as the lo<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſeſt of the Church of <hi>England</hi> men are friendly to us, ſo the more ſolid have now ſuch a friendſhip for Diſſenters as themſelves are in pain when they are proſecuted, and looking upon them us part of their Intereſt, eſteem all ſuch as ill friends to the Proteſtant Religion as buſie themſelves againſt them; for ſince they ſee li<g ref="char:EOLhyphen"/>berty is given to <hi>French</hi> Diſſenters, the <hi>Engliſh</hi> think that Charity ought to begin at home, and therefore may very well be allowed to their own Diſſenters alſo. We hang now only by our Sheet-anchor, That theſe kind of people will ſerve his Majeſty as they did his Father, but how long ſuch a fright will prevail upon a Prince of his underſtanding, eſpecially there being no better bottom to hold ſuch a ſurmizes keep, me in a continual apprehenſion; for I am ſure when ever this Anchor comes home, there is nothing but a wreck to be expected for us.</p>
+            <p>Three Parliaments ſucceſſively you have ſeen already ſtand ready to ſwallow us up, and had aſſuredly done it had not this notion preſerved us. So that when ever this ſlips, we are gone to all intents and purpoſes. For the people are ſtill the ſame, and in reaſon will chuſe much the ſame Parliaments; for look what the people are, ſuch are always their Parliaments, which is the trueſt meaſure you can take of the People of <hi>England;</hi> for were the People <hi>Ca<g ref="char:EOLhyphen"/>tholick,</hi> you would have <hi>Catholick</hi> Parliaments; but to expect a Popiſh Parliament from a Proteſtant People, is as unnatural an expectation as to look for the Sun at midnight; and therefore we had no other way to preſerve us from theſe Parliaments, but this ſingle ſham, That they were as much enemies to His Majeſty as to His Brother; whereas in truth they were no enemies to His Majeſty nor His Brother neither, but to the <hi>Catholick</hi> Profeſſion, and to the Duke as he was the Head thereof in this Kingdom, and thereby had as much unfitted himſelf for the Government of Proteſtants, as our <hi>Harry</hi> the Fourth of <hi>France</hi> had, being a Proteſtant for the Government of <hi>Catholicks.</hi> And to ſay all, we did but oppoſe thoſe Politicks in theſe Proteſtant Parliaments which we our ſe<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ves have practiſed in all <hi>Catholick</hi> Countries; and as long as we can continue this Cheat to perſwade the World that the Pro<g ref="char:EOLhyphen"/>teſtants are enemies to Monarchy and his Majeſty, we ſhall keep off the deadly blow; but when that art ceaſeth, as God knows how ſoon it may, we may bid good night to all other deſigns for ever. For I do not ſee that our new device of fetching off Witneſſes doth effect what ſome fancied it would, our game being gone too far, and grown too unweildy to be retreived by ſuch little tricks at theſe, and the reaſon is plain: for there is not a man that we fetch off, but that hath ſome intimate friend or other, with whom he doth adviſe, before he cometh over, and to whom he doth impart the offers and terms of his coming to us, or elſe he huffs it out that he will not be ſtarved and neglected, as he ſwears he is by the other party. For turning tales and ſides, is ſo ſhameful an Act eſpecially to men of any mettle or in<g ref="char:EOLhyphen"/>genuity, that they reckon themſelves Debtors to their own Reputation, to ſay ſomething in the excuſe thereof, which ſayings, when they are brought into open Courts of Juſtice a<g ref="char:EOLhyphen"/>gainſt them, doth ſo blaſt and ſtain their Teſtimony, that not one of a hundred that hears it, will give the leaſt credit; and therefore though many of our Friends talk high what great Gainers we were by the Tryal of the man at <hi>Oxford,</hi> yet I muſt crave liberty to diſſent from their opinion, and aſſure you, That we were very great Loſers by his Blood.</p>
+            <p>Sir, Whatever may be told you, This is the true State of matters here; and therefore if the Government cannot be perſwaded to accept of the Blood already ſhed, for payment, and croſs the Book by an Act of Oblivion; I ſhall quit my Poſt here, as foreſeeing that all things will revert with a vengeance on us; and that it doth not lye within the compaſs of hu<g ref="char:EOLhyphen"/>mane Prudence to prevent it. I am</p>
+            <closer>
+               <salute>Sir, </salute> 
+               <signed>Your moſt faithful, moſt obedient, and moſt humble Servant.</signed>
+            </closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Rich. Janeway</hi> in <hi>Queens-Head-Alley</hi> in <hi>Pater-Noſter-Row,</hi> 1681.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
